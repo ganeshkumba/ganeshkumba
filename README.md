@@ -1,10 +1,10 @@
 
-                                                               
+                                                                    
                                                                     Hi, I'm Ganesh Kumba 👋
 
 
-                                                UI/UX Designer · Frontend Developer · Full-Stack Developer
-                                                   Hyderabad, Telangana,  India  |  Open to full-time roles
+                                                  UI/UX Designer · Frontend Developer · Full-Stack Developer
+                                                   Hyderabad, Telangana, India  |  Open to full-time roles
 
 
 
@@ -28,7 +28,7 @@ I design and build digital products end-to-end — from Figma wireframes to depl
 - 🔧 Full-Stack Developer — Django, Python, PostgreSQL, REST APIs
 - 📱 Recently shipped a Shooting Academy mobile app with HRV tracking & coach dashboard
 - 💼 Open to full-time roles in UI/UX, frontend, or full-stack development
-- 📍 Based in Chennai, India
+- 📍 Based in Hyderabad, India
 
 ---
 
