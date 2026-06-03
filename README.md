@@ -1,10 +1,8 @@
-Hi, I'm Ganesh Kumba 👋
+                                                          Hi, I'm Ganesh Kumba 👋
 
 
-
-  UI/UX Designer · Frontend Developer · Full-Stack Developer
-
-  Hyderabad , Telangana  , India  |  Open to full-time roles
+                                            UI/UX Designer · Frontend Developer · Full-Stack Developer
+                                              Hyderabad, Telangana, India  |  Open to full-time roles
 
 
 
@@ -65,10 +63,10 @@ I design and build digital products end-to-end — from Figma wireframes to depl
 
 | Project | Description | Stack |
 |---|---|---|
-| [AI Loan Eligibility Checker](https://github.com/ganeshkumba/ai-loan-eligibility-checker) | AI-powered tool to predict loan approval | JavaScript, ML |
-| Shooting Academy App | Mobile app for competitive shooters — HRV tracking, coach dashboard | React Native, Figma |
-| Eyewear Admin Panel | Quick-commerce admin for same-day spectacles delivery | Figma, UI/UX |
-| Optical Store E-commerce | Full-stack store with COD/online payments & order tracking | Django, React, PostgreSQL |
+| [AI Loan Eligibility Checker](https://github.com/ganeshkumba/ai-loan-eligibility-checker) | AI-powered tool to predict loan approval based on applicant profile | JavaScript, ML |
+| Shooting Academy App | Mobile app for competitive shooters — HRV & heart rate tracking, coach dashboard, session analytics | React Native, Figma |
+| Eyewear Admin Panel | Quick-commerce admin for a same-day spectacles delivery platform (Hyderabad) | Figma, UI/UX |
+| Optical Store E-commerce | Full-stack online store with COD/online payments, order tracking & review system | Django, React, PostgreSQL |
 
 ---
 
