@@ -1,10 +1,10 @@
 
-                                                                    **
+                                                               
                                                                     Hi, I'm Ganesh Kumba 👋
 
 
                                                 UI/UX Designer · Frontend Developer · Full-Stack Developer
-                                                   Hyderabad, Telangana,  India  |  Open to full-time roles**
+                                                   Hyderabad, Telangana,  India  |  Open to full-time roles
 
 
 
